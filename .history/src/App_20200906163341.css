@@ -1,0 +1,26 @@
+:root{
+    --light-blue: rgb(0,145,160);
+    --orange: rgb(255, 133, 0);
+    --dark-blue: rgb(0, 39, 96);
+}
+
+div {
+    border: solid black 1px;
+}
+
+header{
+    background-color: var(--light-blue);
+}
+
+#title{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+        justify-content: center;
+    /* align-items: center; */
+}
+
+#results-section{
+    background-color: var(--orange)
+}
+
