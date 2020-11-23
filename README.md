@@ -13,9 +13,9 @@ Create an Weather App that utilizes my knowledge of working with APIs.
 
 ### Built With: ###
 
-* HTML/CSS
-* JavaScript
 * ReactJS
+* JavaScript
+* HTML/CSS
 * [OpenWeatherMap](https://openweathermap.org/) API
 
 ### Picture: ###
