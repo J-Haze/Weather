@@ -4,7 +4,7 @@ App that shows weather based on searched location.
 🔗 **Live preview** of the app is [here](https://j-haze.github.io/Weather/).
 
 ### Purpose: ###
-Create an Weather App that utilizes my knowledge of working with APIs.
+Create an Weather App that utilizes my knowledge of working with ** APIs **.
 
 ### Features: ###
 
