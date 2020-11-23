@@ -16,7 +16,7 @@ Create an Weather App that utilizes my knowledge of working with APIs.
 * HTML/CSS
 * JavaScript
 * ReactJS
-* OpenWeatherMap API
+* [OpenWeatherMap](https://openweathermap.org/) API
 
 ### Picture: ###
 
