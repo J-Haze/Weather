@@ -1,10 +1,9 @@
 # WeatherApp
 App that shows weather based on searched location.
 
-🔗 **Live preview** of the app is [here](https://j-haze.github.io/Weather/).
+Fetches weather from OpenWeatherMap API.
 
-### Purpose: ###
-Create an Weather App that utilizes my knowledge of working with **APIs**.
+🔗 **Live preview** of the app is [here](https://j-haze.github.io/Weather/).
 
 ### Features: ###
 
